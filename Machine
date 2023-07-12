@@ -1,0 +1,4 @@
+linear_regression.py: Python file implementing linear regression model.
+decision_tree.py: Python file implementing decision tree classifier.
+random_forest.py: Python file implementing random forest classifier.
+utils.py: A utility module providing common functions for data preprocessing and model evaluation.
